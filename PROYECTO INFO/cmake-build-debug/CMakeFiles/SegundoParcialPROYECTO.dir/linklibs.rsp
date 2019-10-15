@@ -1,0 +1,1 @@
+C:/mingw32/lib/libsfml-system-s-d.a C:/mingw32/lib/libsfml-window-s-d.a C:/mingw32/lib/libsfml-graphics-s-d.a -static C:/mingw32/lib/libsfml-window-s-d.a C:/mingw32/lib/libsfml-system-s-d.a -lwinmm -lgdi32 -lOpenGL32 C:/mingw32/lib/libfreetype.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
